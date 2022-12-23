@@ -1,0 +1,19 @@
+p {
+    background-color: lightcoral;
+    font: Verdana, DejaVu Sans, sans-serif;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+.messi {
+font-size: 24px;
+}
+
+.cr7 {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
